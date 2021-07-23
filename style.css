@@ -1,0 +1,29 @@
+h1 {font-style:italic;
+    color: rgb(0, 0, 0);
+    background-color: rgb(164, 202, 233);
+    margin: 35px;
+    width: 500px;
+}
+
+ h3 {
+     font-style: italic;
+     color: rgb(255, 255, 255);
+     margin: 25px;
+}
+
+body {
+     
+    background-image: url("back.jpg");
+   }
+   
+ p {
+     color: rgb(255, 255, 255);
+     width: 400px;
+     
+}
+
+ ul {
+     margin: 40px;
+     color: rgb(255, 255, 255);
+}
+
